@@ -1,0 +1,99 @@
+.jumbotron{
+	background-image: url("../images/articles/meaning_impact_and_happiness/cover1.jpg");
+	text-align: center;
+	background-position: center;
+	background-image-opacity: .5; 
+}
+
+.jumbotron .container{
+	color: #fff;
+}
+#text-body{
+	color: #4d4d4d;
+}
+
+#text-body #intro{
+	margin-bottom: 50px;
+}
+
+#text-body #intro p{
+	color: black;
+	font-size: 26px;
+	font-family: Georgia;
+}
+
+.bold-text{
+	font-weight: bold;
+	font-family: Georgia;
+	color: black;
+}
+
+#text-body .bold-text{
+	font-size: 22px;
+}
+
+#text-body img{
+	width: 100%;
+}
+
+#text-body h1{
+	font-weight: bold;
+	font-size: 36px;
+	color: black;
+	font-family: Georgia;
+}
+
+#text-body p{
+	margin-bottom: 20px;
+	margin-top: 20px;
+	font-size: 18px;
+}
+
+#text-body #end{
+	margin-bottom: 50px;
+}
+
+#text-body .name{
+	color: green;
+}
+
+#text-body .quote{ 
+	font-size: 16px;
+	//margin-left: 50px;
+	//margin-right: 50px;
+	//font-style: italic;
+}
+
+#text-body .author{
+	font-size: 24px;
+	text-align: right;
+	margin-bottom: 50px;
+	font-weight: normal;
+}
+
+#text-body p .dropcap{
+	float: left;
+	line-height: 95px;
+	color: #fff;
+	background-color: #4d4d4d;
+	font-size: 100px;
+	font-family: Palatino;
+	padding-right: 30px; 
+	padding-left: 30px; 
+	margin-right: 10px;
+}
+
+#text-body .sources{
+	margin-top: 50px;
+}
+
+#text-body .sources h3{
+	font-weight: bold;
+	color: green;
+	margin-top: 50px;
+}
+
+#text-body .sources ul li a{
+	color: green;
+	text-decoration: none;
+}

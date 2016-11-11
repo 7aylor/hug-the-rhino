@@ -1,0 +1,91 @@
+/***********************************HOME PAGE*********************************/
+.jumbotron {
+	background-image: url("../images/main_pages/index/cover1.jpg");
+	background-position: center;
+}
+
+.jumbotron .buttons {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: inline-block;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
+	border-radius: 5px;
+	font-size: 18px;
+	//background: linear-gradient( #6E6E6E, #363636);
+	background-color: #6E6E6E;
+}
+
+.jumbotron #read_articles {
+	margin-right: 25px;
+}
+
+.jumbotron #contributors {
+	margin-left: 25px;
+}
+
+.jumbotron a .buttons {
+	text-decoration: none;
+	color: #F8F8F8;
+}
+
+.jumbotron a .buttons:hover{
+	//background: linear-gradient( #363636, #6E6E6E);
+	background-color: #363636;
+}
+
+/*body*/
+.container {
+	color: #F8F8F8;
+}
+
+.container h1{
+	margin-top: 100px;
+	margin-bottom: 75px;
+}
+
+.container h3{
+	margin-bottom: 25px;
+	font-size: 30px;
+}
+
+/*end body*/
+
+/*recent articles*/
+.recent_articles {
+	text-align: center;
+}
+
+.recent_articles h1 {
+	font-weight: bold;
+	font-size = 36px;
+	color: #8d8d8b;
+}
+
+.recent_articles h3 {
+	font-size: 20px;
+}
+
+.recent_articles h3 a {
+	text-decoration: none;
+	color: black;
+}
+
+.recent_articles h3 a:hover {
+	text-decoration: none;
+	color: green;
+}
+
+.recent_articles p a {
+	text-decoration: none;
+	color: black;
+}
+
+.recent_articles p a:hover {
+	text-decoration: none;
+	color: green;
+}
+/*end recent articles*/

@@ -1,0 +1,46 @@
+/*******************************BEST READS**************************/
+/*body*/
+.jumbotron {
+	background-image: url("../images/main_pages/best_reads/coffee_books.jpg");
+}
+
+.container {
+	color: #F8F8F8;
+}
+/*end body*/
+
+/*recent articles*/
+.recent_articles {
+	text-align: center;
+}
+
+.recent_articles h1 {
+	font-weight: bold;
+	font-size = 36px;
+	color: #8d8d8b;
+}
+
+.recent_articles h3 {
+	font-size: 20px;
+}
+
+.recent_articles h3 a {
+	text-decoration: none;
+	color: black;
+}
+
+.recent_articles h3 a:hover {
+	text-decoration: none;
+	color: green;
+}
+
+.recent_articles p a {
+	text-decoration: none;
+	color: black;
+}
+
+.recent_articles p a:hover {
+	text-decoration: none;
+	color: green;
+}
+/*end recent articles*/

@@ -1,0 +1,143 @@
+.jumbotron .container h1 {
+    margin-bottom: 100px;
+}
+
+#nav-buttons{
+    margin-top: 25px;
+}
+
+#nav-buttons ul{
+    padding: 0;
+    list-style: none;
+}
+#nav-buttons ul li{
+    width: 160px;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    line-height: 21px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #4d4d4d;
+}
+#nav-buttons ul li a{
+    display: block;
+    padding: 5px 10px;
+    color: #333;
+    text-decoration: none;
+    border-radius: 3px;
+}
+#nav-buttons ul li a:hover{
+    color: #fff;
+    background: #4d4d4d;
+    border-radius: 3px;
+}
+#nav-buttons ul li ul{
+    display: none;
+    position: absolute;
+    z-index: 999;
+    left: 0;
+}
+#nav-buttons ul li:hover ul{
+	margin-top: 0px;
+    display: block;
+    text-align: left;
+    background-color: white;
+    border-radius: 3px;
+}
+
+.jumbotron{
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+    display: table;
+}
+
+.jumbotron .container{
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    color: #fff;
+}
+
+#settings-bar{
+    display: none;
+}
+
+#settings-bar img{
+    height: 50px;
+    width: 50px;
+}
+
+@media screen and (max-width: 876px){
+    #nav-buttons{
+        display:none;
+    }
+    #settings-bar{
+        margin-top: 15px;
+        display: inline-block;
+        position: relative;
+    }
+}
+
+
+html{
+    min-width: 320px; min-height: 480px;
+}
+
+.navbar-default {
+    margin-top: 20px;
+    border: none;
+    background: white;
+    outline: none;
+    box-shadow: none;
+}
+
+.navbar-default img{
+    margin-top: -30px;
+}
+
+.navbar-default img {
+        height: 56px;
+        width: 233px;
+}
+
+#right {
+    margin-right: 15px;
+}
+
+#right li{
+    width: 150px;
+}
+
+#right li a{
+    text-align: center;
+    font-size: 18px;
+    color: #4d4d4d;
+}
+
+#right li a:hover{
+    background: #4d4d4d;
+    color: white;
+    border-radius: 5px;
+}
+
+.dropdown .dropdown-toggle{
+    border-radius: 5px;
+}
+
+.dropdown-menu {
+    border: none;
+    outline: none;
+    box-shadow: none;
+    width: 150px;
+}
+
+.dropdown-menu li{
+    margin-top: -5px;
+    margin-bottom: -5px;
+}
+
+.dropdown-menu li a{
+    margin-right: -15px;
+}

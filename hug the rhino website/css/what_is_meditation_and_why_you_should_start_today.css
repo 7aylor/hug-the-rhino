@@ -1,0 +1,76 @@
+.jumbotron{
+	background-image: url("../images/articles/what_is_meditation_and_why_you_should_start_today/cover1.jpg");
+	text-align: center;
+	background-position: center;
+	background-image-opacity: .5; 
+}
+
+.jumbotron .container{
+	color: #fff;
+}
+
+#text-body{
+	color: #4d4d4d;
+}
+
+#text-body h1{
+	font-weight: bold;
+}
+
+#text-body h3{
+	font-weight: bold;
+}
+
+#text-body p .dropcap{
+	float: left;
+	line-height: 95px;
+	color: #fff;
+	background-color: #4d4d4d;
+	font-size: 100px;
+	font-family: Palatino;
+	padding-right: 30px; 
+	padding-left: 30px; 
+	margin-right: 10px;
+}
+
+#text-body p{
+	margin-bottom: 20px;
+	margin-top: 20px;
+	font-size: 18px;
+}
+
+#text-body p a{
+	text-decoration: none;
+	color: green;
+
+}
+
+#text-body ul li {
+	font-size: 18px;
+}
+
+#text-body img{
+	width: 100%;
+}
+
+#text-body #appendix{
+	margin-top: 100px;
+	margin-bottom: 50px;
+	color: green;
+	font-weight: bold;
+}
+
+#text-body .sources{
+	margin-top: 50px;
+}
+
+#text-body .sources h3{
+	font-weight: bold;
+	color: green;
+	margin-top: 50px;
+}
+
+#text-body .sources ul li a{
+	color: green;
+	text-decoration: none;
+}

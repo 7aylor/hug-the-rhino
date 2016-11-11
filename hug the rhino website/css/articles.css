@@ -1,0 +1,41 @@
+.jumbotron{
+	background-image: url("../images/main_pages/articles/library.jpg");
+	text-align: center;
+}
+
+tr td a{
+	color: #4d4d4d;
+	text-decoration: none;
+}
+
+tr td a:hover{
+	color: green;
+	text-decoration: none;
+}
+
+tr th{
+	padding-bottom: 15px;
+	padding-right: 15px;
+}
+
+tr td{
+	padding-right: 30px;
+	padding-bottom: 10px;
+}
+
+th{
+	color: black;
+	font-size: 24px;
+}
+
+td{
+	font-size: 20px;
+}
+
+tr{
+	text-align: left;
+}
+
+.author, .date{
+	font-size: 14px;
+}

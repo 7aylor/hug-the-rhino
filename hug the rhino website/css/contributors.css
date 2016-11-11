@@ -1,0 +1,58 @@
+.jumbotron {
+	background-image: url("../images/main_pages/contributors/rhino1.jpg");
+	text-align: center;
+	background-position: center;
+}
+
+.container #welcome{
+	color: #F8F8F8;
+}
+
+.container h1{
+	margin-top: 100px;
+	margin-bottom: 75px;
+}
+
+.container h3{
+	margin-bottom: 25px;
+	font-size: 30px;
+}
+
+.container p{
+	color: #4d4d4d;
+}
+
+.kurt{
+
+	margin-bottom: 50px;
+}
+
+.kathya{
+	margin-bottom: 50px;
+}
+
+.nick{
+	margin-bottom: 50px;
+}
+
+.contributors{
+	margin-top: 100px;
+	font-size: 20px;
+}
+
+.contributors h3{
+	font-weight: bold;
+	font-size: 25px;
+	margin-top: 0px;
+}
+
+.contributors img{
+	margin-bottom: 50px;
+}
+
+#head{
+	color: #8d8d8b;
+	font-size: 50px;
+	margin-bottom: 50px;
+	text-align: center;
+}
